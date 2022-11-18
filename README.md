@@ -7,4 +7,4 @@ This software has 2 modules primarily, one being user and another being admin.
 
 This module allows cusstomers(users) to remotely choose a car that they wish to rent. The admin recieves request and can look at the details of the customer. Following which he can either approve or deny the same. The admin is also allowed to do numereous settings to the website from his portal. Some of which include adding cars, modifying prices, deleting brands, etc.
 
-The smooth and powerful GU interface offered can really set the difference in browsing. Do fork and star🌟 the project to try it out!!
+The smooth and powerful GU interface offered can really set the difference in browsing. Do fork and star🌟 the repo to try it out!!
